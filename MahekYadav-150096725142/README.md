@@ -2,6 +2,8 @@
 
 A complete REST API for managing a library system built using Node.js, Express.js, Firebase Firestore, JWT authentication, and role-based access control.
 
+LIVE LINK: https://library-management-api-77y7.onrender.com/
+
 
 
 ## 📌 Project Overview
